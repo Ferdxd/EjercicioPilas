@@ -1,0 +1,13 @@
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\bin\Debug\netcoreapp3.1\StackTest.exe
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\bin\Debug\netcoreapp3.1\StackTest.deps.json
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\bin\Debug\netcoreapp3.1\StackTest.runtimeconfig.json
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\bin\Debug\netcoreapp3.1\StackTest.runtimeconfig.dev.json
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\bin\Debug\netcoreapp3.1\StackTest.dll
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\bin\Debug\netcoreapp3.1\StackTest.pdb
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.csprojAssemblyReference.cache
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.csproj.CoreCompileInputs.cache
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.AssemblyInfoInputs.cache
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.AssemblyInfo.cs
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.dll
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.pdb
+C:\Users\FERDY AGUSTIN\source\repos\StackTest\obj\Debug\netcoreapp3.1\StackTest.genruntimeconfig.cache
